@@ -1,7 +1,7 @@
 ---
 title: "my first blog"
 layout: post
-category: [日记]
+category: 日记
 date: 2019-08-04
 
 ---
